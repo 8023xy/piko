@@ -1,6 +1,6 @@
 ---
 baseURL: https://piko-heksagon.netlify.app/
-languageCode: zh-cn
+languageCode: en-us
 title: 长春东日电梯有限公司
 theme: piko
 paginate: "9"
@@ -55,8 +55,7 @@ params:
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
-  # CookieNotice: We use cookies to improve your experience on our site and to show
-    you relevant advertising.
+
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
   disableAnchoredHeadings: false
