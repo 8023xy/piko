@@ -1,5 +1,5 @@
-name = "Piko"
-license = "MIT"
+name = "1-Piko"
+license = "1-MIT"
 licenselink = "https://github.com/heksagonnet/piko/blob/master/LICENSE"
 description = "Piko is a minimalistic and fast theme powered by Hugo for building a blog or portfolio."
 homepage = "https://github.com/heksagonnet/piko"
