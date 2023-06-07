@@ -1,8 +1,8 @@
 ---
 baseURL: https://piko-heksagon.netlify.app/
-languageCode: en-us
-title: Piko
-theme: piko
+languageCode: zh-cn
+title: 1-Piko
+theme: 2-piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
