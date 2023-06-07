@@ -55,7 +55,8 @@ params:
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
-
+  # CookieNotice: We use cookies to improve your experience on our site and to show
+  # you relevant advertising.
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
   disableAnchoredHeadings: false
@@ -74,7 +75,8 @@ params:
     disableHeroSection: false
     heroUpperTitle: 
     heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroDescription: 省内唯一具有整梯生产资质的企业
+    电梯协会会长单位
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
