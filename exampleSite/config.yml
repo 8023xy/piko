@@ -1,8 +1,8 @@
 ---
 baseURL: https://piko-heksagon.netlify.app/
 languageCode: zh-cn
-title: 1-Piko
-theme: 2-piko
+title: 长春东日电梯有限公司
+theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
@@ -37,8 +37,8 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: 长春东日电梯有限公司
+  description: 客梯、别墅梯、货梯、加装电梯、扶梯、杂物梯、维修保养
   math: false
   images:
   - "/uploads/og.webp"
@@ -55,7 +55,7 @@ params:
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
-  CookieNotice: We use cookies to improve your experience on our site and to show
+  # CookieNotice: We use cookies to improve your experience on our site and to show
     you relevant advertising.
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
