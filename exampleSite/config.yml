@@ -43,9 +43,9 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title-1_
+    title: _Piko Title_
     text: Welcome to Piko
-    lightNavIcon: /uploads/sun.svg
+    lightNavIcon: /uploads/1sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
