@@ -41,14 +41,14 @@ params:
   description: 客梯、别墅梯、货梯、加装电梯、扶梯、杂物梯、维修保养
   math: false
   images:
-  - "/uploads/og.webp"
+  - "/uploads/1ogwebp"
   label:
     title: _东日电梯 | 长铃集团_
     text: Welcome to Piko
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
-    iconHeight: "135"
-    iconWIdth: "135"
+    iconHeight: "35"
+    iconWIdth: "35"
   comments: true
   mainSections:
   - blog
