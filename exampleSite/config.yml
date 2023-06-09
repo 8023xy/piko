@@ -83,9 +83,9 @@ params:
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
-    blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    blogTitle: 公司最新动态
+    # blogDescription: This is my latest blog posts
+    seeMoreText: 更多文章
     # About Section    
     disableAboutSection: false
     aboutTitle: About
