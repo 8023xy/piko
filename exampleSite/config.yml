@@ -74,7 +74,7 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    # heroTitle: Piko
+    heroTitle: 长春东日电梯有限公司
     heroDescription: 省内唯一具有整梯生产资质的企业，电梯协会会长单位
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
