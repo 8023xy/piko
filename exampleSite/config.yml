@@ -47,8 +47,8 @@ params:
     text: Welcome to Piko
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
-    iconHeight: "35"
-    iconWIdth: "35"
+    iconHeight: "135"
+    iconWIdth: "135"
   comments: true
   mainSections:
   - blog
