@@ -45,8 +45,8 @@ params:
   label:
     title: _东日电梯 | 长铃集团_
     text: Welcome to Piko
-    # lightNavIcon: /uploads/sun.svg
-    # darkNavIcon: /uploads/zap.svg
+    lightNavIcon: /uploads/sun.svg
+    darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
