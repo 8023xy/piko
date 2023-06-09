@@ -46,7 +46,7 @@ params:
     title: _Piko Title_
     text: Welcome to Piko
     lightNavIcon: /uploads/1sun.svg
-    darkNavIcon: /uploads/zap.svg
+    darkNavIcon: /uploads/1zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
