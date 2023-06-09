@@ -75,8 +75,7 @@ params:
     disableHeroSection: false
     heroUpperTitle: 
     heroTitle: Piko
-    heroDescription: 省内唯一具有整梯生产资质的企业
-    电梯协会会长单位
+    heroDescription: 省内唯一具有整梯生产资质的企业，电梯协会会长单位
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
