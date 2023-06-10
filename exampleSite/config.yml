@@ -90,26 +90,26 @@ params:
     disableAboutSection: false
     aboutTitle: 公司简介
     aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/20211028100606788.jpg"
+    aboutImgUrl: "/uploads/20211028100606468.jpg"
     aboutContent: 长铃智造园区电梯生产基地，占地面积28000平米，总建筑面积21000平米，生产车间12500平米，研发中心及办公楼3500平米，电梯试验塔高66米，是全省最大的电梯研发、测试、制造企业。
     
     # Portfolio Section
-    disablePortfolioSection: false
-    portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
-    portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
-      alt: # image alt for better SEO
-      description: Portfolio One.
-      websiteUrl: #
-    - imageUrl: /uploads/portfolio-2.webp
-      alt: # image alt for better SEO
-      description: Portfolio Two.
-      websiteUrl: #
-    - imageUrl: /uploads/portfolio-3.webp
-      alt: # image alt for better SEO
-      description: Portfolio Three.
-      websiteUrl: #
+    # disablePortfolioSection: false
+    # portfolioTitle: Portfolio
+    # portfolioDescription: Some of my works
+    # portfolio:
+    # - imageUrl: /uploads/portfolio-1.webp
+    #   alt: # image alt for better SEO
+    #   description: Portfolio One.
+    #   websiteUrl: #
+    # - imageUrl: /uploads/portfolio-2.webp
+    #   alt: # image alt for better SEO
+    #   description: Portfolio Two.
+    #   websiteUrl: #
+    # - imageUrl: /uploads/portfolio-3.webp
+    #   alt: # image alt for better SEO
+    #   description: Portfolio Three.
+    #   websiteUrl: #
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
@@ -132,7 +132,7 @@ menus:
   main: # Main Menu
   - name: Blog
     title: Blog
-    pre: pen-tool
+    # pre: pen-tool
     url: "/blog"
     weight: "20"
   - name: Search
