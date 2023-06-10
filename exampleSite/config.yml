@@ -130,31 +130,36 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
+  - name: 公司动态
+    title: 公司动态
+    # pre: pen-tool
+    url: "/blog"
+    weight: "20"
   - name: 产品方案
     title: 产品方案
     # pre: pen-tool
     url: "/blog"
-    weight: "20"
+    weight: "30"
   - name: 加装电梯
     title: 加装电梯
     # pre: search
     url: "/search"
-    weight: "30"
+    weight: "40"
   - name: 家用电梯
     title: 家用电梯
     # pre: mail
     url: "/contact"
-    weight: "40"
+    weight: "50"
   - name: 维保改造
     title: 维保改造
     # pre: github
     url: https://github.com/heksagonnet/piko
-    weight: "50"
+    weight: "60"
   - name: 联系我们
     title: 联系我们
     # pre: pen-tool
     url: "/blog"
-    weight: "60"
+    weight: "70"
   search: # Search page's quick links
   - name: Categories
     title: Categories
