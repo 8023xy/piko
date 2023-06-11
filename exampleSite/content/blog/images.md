@@ -1,18 +1,33 @@
 ---
-title: "长春市东民主，加装电梯投入使用"
-date: "2020-12-07T09:29:20+02:00"
-tags: ["长春", "电梯", "旧楼", "加装", "加装电梯", "长春东日电梯", "长春东日电梯有限公司", "旧楼加装电梯"]
-categories: ["加装电梯"]
-banner: "img/banners/banner-1.jpg"
-authors: ["John Doe"]
+author: "Hugo Authors"
+title: "Adding Images-1"
+date: "2022-03-05"
+description: "Guide to adding images in Piko theme"
+tags: ["images","markdown", "css", "html", "themes"]
+categories: ["themes", "syntax"]
+ShowRelated: false
+showToc: false
+ShowBreadCrumbs: false
 ---
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日前，长春市东民主小区已经完成了电梯加装工程，新设备已经通过验收并正式投入使用，为小区的业主和住户带来更便利、舒适的<!--more-->居住体验。
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据了解，长春市东民主小区加装电梯是为了满足住户更高层次、更优质的生活需求，缓解小区垂直交通压力的一个重要措施。针对这个问题，管理部门多次召开业主会议，广泛听取业主意见，认真贯彻落实相关政策，加大资金投入，终于完成了电梯加装工程。
+To add images you can use the following syntax:
+```md
+![This where you put the alt information](/uploads/self.webp)
+```
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了确保安装工程的质量和安全，工作人员在整个施工过程中严格按照国家相关法律法规执行操作，采用了一批先进的设备和技术手段，保证了电梯设备的安全稳定和可靠性，同时，还进行了防雷、消防、逃生等多项安全检测和实验。
+![This where you put the alt information](/uploads/self.webp)
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小区物业管理部门表示，这次电梯加装是小区基础设施升级的重要举措，新的电梯设备的引入将会更好地满足业主和住户的需求，同时，也营造出人性化、智能化、安全舒适的居住环境。相信，在全体居民的共同努力下，东民主小区的生活质量将会得到不断提升。
+To add title, use the following syntax (`<figure>` element will be generated with `<figcaption>`):
+```md
+![This where you put the alt information](/uploads/self.webp "This is where you put the title")
+```
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次电梯加装工程的圆满完成，彰显了东民主小区的整体实力和管理水平。这也为其他小区在改善住户垂直交通方面提供了有益的借鉴。
-{{< bilibili BV11s4y1p7mD >}}
+![This where you put the alt information](/uploads/self.webp "This is where you put the title")
+
+Or from external sources:
+
+```md
+![This is where you put the alt](https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8 "This is the image title")
+```
+
+![This is where you put the alt](https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8 "This is the image title")
