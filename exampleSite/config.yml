@@ -1,5 +1,5 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://www.dongil-lift.com/
 languageCode: en-us
 title: 长春东日电梯有限公司
 theme: piko
@@ -89,7 +89,7 @@ params:
     # About Section    
     disableAboutSection: false
     aboutTitle: 公司简介
-    aboutDescription: Just something about me
+    # aboutDescription: Just something about me
     aboutImgUrl: "/uploads/20211028100606468.jpg"
     aboutContent: 长铃智造园区电梯生产基地，占地面积28000平米，总建筑面积21000平米，生产车间12500平米，研发中心及办公楼3500平米，电梯试验塔高66米，是全省最大的电梯研发、测试、制造企业。
     
